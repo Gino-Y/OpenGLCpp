@@ -1,0 +1,3 @@
+﻿  02-Triangle.cpp
+D:\Works\OpenGl\OpenGlTest\OpenGLTest\02-Triangle\02-Triangle.cpp(115,19): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+  02-Triangle.vcxproj -> D:\Works\OpenGl\OpenGlTest\OpenGLTest\Debug\02-Triangle.exe
