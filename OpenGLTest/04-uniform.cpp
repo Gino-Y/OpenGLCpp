@@ -117,8 +117,6 @@ int main()
         glClearColor(0.2f, 0.3f, 0.3f, 1.0f);//清屏颜色
         glClear(GL_COLOR_BUFFER_BIT);//清理颜色缓存
 
-
-
         glBindVertexArray(VAO);
         glBindBuffer(GL_ELEMENT_ARRAY_BUFFER, EBO);
 
