@@ -1,4 +1,5 @@
-﻿#include <iostream>
+﻿//p14-p17 finished
+#include <iostream>
 
 #define GLEW_STATIC
 #include <GL/glew.h>
